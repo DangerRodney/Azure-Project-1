@@ -73,8 +73,10 @@ A summary of the access policies in place can be found in the table below.
 | Name     | Publicly Accessible | Allowed IP Addresses |
 |----------|---------------------|----------------------|
 | Jump Box | Yes                 | 40.85.150.255        |
-|          |                     |                      |
-|          |                     |                      |
+| Web-1    | No                  |                      |
+| Web-2    | No                  |                      |
+| Elk-East | No                  | 24.6.196.240         |
+| DVWA-VM-2| No                  | 24.6.196.240         |
 
 ### Elk Configuration
 
