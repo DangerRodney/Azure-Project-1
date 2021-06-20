@@ -100,9 +100,13 @@ The following screenshot displays the result of running `docker ps` after succes
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
 List the IP addresses of the machines you are monitoring:
+
 40.85.150.255 
+
 13.64.78.11 or 10.0.0.5
+
 13.64.78.11 or 10.0.0.6
+
 10.0.0.8
 
 We have installed the following Beats on these machines:
