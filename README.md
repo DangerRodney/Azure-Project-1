@@ -139,7 +139,7 @@ Which file is the playbook? Where do you copy it?
 A YAML File. In the Ansible container.
 
 Which file do you update to make Ansible run the playbook on a specific machine? How do I specify which machine to install the ELK server on versus which to install Filebeat on?
-1. $nano my_playbook.yml update tables and IP ranges and run: ansible-config.yml my_playbook.yml
+1. nano my_playbook.yml update tables and IP ranges and run: ansible-config.yml my_playbook.yml
 2. You would update hosts files and specify the machines by putting them under the correct group: One being the Elk group and webservers group. 
 
 Which URL do you navigate to in order to check that the ELK server is running?
