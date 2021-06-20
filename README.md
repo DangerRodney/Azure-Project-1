@@ -11,15 +11,13 @@ These files have been tested and used to generate a live ELK deployment on Azure
 Enter the playbook file.
 (https://github.com/DangerRodney/Azure-Project-1/blob/main/ansible/my_playbook.yml)
 
-# This file is an example configuration file highlighting only the most common
-# options. The filebeat.reference.yml file from the same directory contains all the
-# supported options with more comments. You can use it as a reference.
-#
+
+This file is and example configuration file highlighing onlt the most common options. The Filebeat.reference.yml file from the same directory 
+contains all the supported options #with more comments. You can use it as a reference.
 # You can find the full configuration reference here:
 # https://www.elastic.co/guide/en/beats/filebeat/index.html
 
-# For more available modules and options, please see the filebeat.reference.yml sample
-# configuration file.
+# For more available modules and options, please see the filebeat.reference.yml sample configuration file.
 
 
 This document contains the following details:
@@ -139,4 +137,5 @@ Which file do you update to make Ansible run the playbook on a specific machine?
 2. You would update hosts files and specify the machines by putting them under the correct group: One being the Elk group and webservers group. 
 
 Which URL do you navigate to in order to check that the ELK server is running?
+
 IP Adress:5601/app/kibana or 40.85.150.255:5601/app/kibana
