@@ -142,4 +142,4 @@ Which file do you update to make Ansible run the playbook on a specific machine?
 
 Which URL do you navigate to in order to check that the ELK server is running?
 
-IP Adress:5601/app/kibana or 40.85.150.255:5601/app/kibana
+http://40.85.150.255:5601/app/kibana
