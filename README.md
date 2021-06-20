@@ -13,7 +13,7 @@ Enter the playbook file.
 
 
 This file is and example configuration file highlighing onlt the most common options. The Filebeat.reference.yml file from the same directory 
-contains all the supported options #with more comments. You can use it as a reference.
+contains all the supported options with more comments. You can use it as a reference.
 # You can find the full configuration reference here:
 # https://www.elastic.co/guide/en/beats/filebeat/index.html
 
